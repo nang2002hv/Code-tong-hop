@@ -3,5 +3,7 @@
 using namespace std;
 
 int main(){
-	cout << a;
+	int n;
+	cin >> n;
+	cout << n;
 }
